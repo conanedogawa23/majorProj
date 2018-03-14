@@ -1,0 +1,9 @@
+---
+applications:
+- name: bagdkart-back-end
+  domain: mybluemix.net
+  instances: 1
+  env:
+    NODE_ENV: cloud-foundry
+
+
